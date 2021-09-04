@@ -1,3 +1,3 @@
 # jack-challenge
 
-This a blackjack game built with HTML, CSS and JavaScript.
+This a black jack game built with HTML, CSS and JavaScript.
